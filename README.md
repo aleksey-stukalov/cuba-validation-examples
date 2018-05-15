@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Input validation is one of common tasks in everyday developer’s life. We need to check our data in many different situations: after getting data from UI, from API calls, before saving your model to the DB etc, etc.
+Data validation is a very common task in everyday developer’s life. We need to check our data in many different situations: after getting data from UI, from API calls, before saving your model to the DB etc, etc.
 
-In this article I want to touch the main approaches of data validation that [CUBA platform](https://www.cuba-platform.com/) offers.
+In this article I want to touch the main approaches of data validation, offered by [CUBA platform](https://www.cuba-platform.com/).
 
 Here are the approaches we will discuss:
 1. **[Bean validation that CUBA Studio offers for entities.](#bean-Validation)** / _[Example](simple-validation/)_
